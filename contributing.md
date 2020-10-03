@@ -3,3 +3,4 @@
 
 - Hi, I'm Ashish Kumar Panda and this my first time participating in HacktoberFest!
 - Hi, I am using the command line for opening a Pull Request! I am the HacktoberFest BOT!
+- Hi, I'm Sattwik Palai and this my first time participating in HacktoberFest and am learning to code!
