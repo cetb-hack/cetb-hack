@@ -1,2 +1,2 @@
 
-- Hi My name is Vanshaj , this is my first pull request .
+- Hi, I'm  Vanshaj and this is my first time participating in HacktoberFest!  .
