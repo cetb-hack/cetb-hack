@@ -1,2 +1,2 @@
 
-- Hi, I'm Ashish Kumar Panda and this my first time participating in HacktoberFest!
+- Hi, I'm Arya Shreyas and this my first time participating in HacktoberFest! 
