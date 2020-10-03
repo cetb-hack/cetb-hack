@@ -1,2 +1,2 @@
 
-- Hi, I'm Raksha and this my first time participating in HacktoberFest!
+- Hi, I am Swapnil and this is my first time in Hacktoberfest.
