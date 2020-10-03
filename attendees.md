@@ -4,5 +4,5 @@
 # Attendees
 
 - Gajesh Naik
-- Vanshaj Tyagi
+-[Vanshaj Tyagi](https:www.github.com/vanshaj234)
 
