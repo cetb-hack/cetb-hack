@@ -1,4 +1,7 @@
 
+Hi my name is Suryansu and I am a tech-enthusiast.
+=======
+
 
 - Hello my name is Trideep Barik and I love webdev <3 !
 =======
@@ -31,6 +34,5 @@
 - Hi, I'm Susil Kumar Behera, I am new to hacktoberfest feeling very happy and curious being a part of it!
 - Hi, I'm Suchismita Swain and this is my first time participation in HacktoberFest!
 - Hi, i'm Swastik Khuntia and this is my first time contributing to Hacktoberfest
-
 
 
