@@ -8,3 +8,5 @@
 - Hi, I am using the command line for opening a Pull Request! I am the HacktoberFest BOT!
 - Hi, I'm Sattwik Palai and this my first time participating in HacktoberFest and am learning to code!
 - Hi, I'm Rupesh Mishra and this is my first time participation in HacktoberFest
+- Hi, I'm Susil Kumar Behera, I am new to hacktoberfest
+feeling very happy and curious being a part of it!
