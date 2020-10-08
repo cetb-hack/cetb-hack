@@ -1,28 +1,21 @@
+# Hello, I am Mrunmayee. This is my First Pull Request.
 
-Hello, I am Mrunmayee. This is my First Pull Request.
-=======
+# Hi my name is Suryansu and I am a tech-enthusiast.
 
-Hi my name is Suryansu and I am a tech-enthusiast.
-=======
+- # Hello my name is Trideep Barik and I love webdev <3 !
 
+- # Hello! I'm Raksha and this my first time participating in HacktoberFest!
 
-- Hello my name is Trideep Barik and I love webdev <3 !
-=======
+- # Hi, I am Swapnil and this is my first time in Hacktoberfest.
 
-- Hello! I'm Raksha and this my first time participating in HacktoberFest!
-=======
+- # Hi, my name is Shreya and this is my first time in open source!
+- Hi, I'm Arya Shreyas and this my first time participating in HacktoberFest!
 
-- Hi, I am Swapnil and this is my first time in Hacktoberfest.
-=======
+-- Hi, I'm Vanshaj and this is my first time participating in HacktoberFest!
 
-- Hi, my name is Shreya and this is my first time in open source!
-=======
-- Hi, I'm Arya Shreyas and this my first time participating in HacktoberFest! 
-
--- Hi, I'm  Vanshaj and this is my first time participating in HacktoberFest! 
+- Hi there, I'm [Zain](https://github.com/zaiinhs) and this is my first time contribute to Hacktoberfest 🧑
 
 ## Names
-
 
 - Hi, I'm Ashish Kumar Panda and this my first time participating in HacktoberFest!
 - Hi, I am using the command line for opening a Pull Request! I am the HacktoberFest BOT!
@@ -31,13 +24,10 @@ Hi my name is Suryansu and I am a tech-enthusiast.
 
 - Hi all! I am glad to be able to contribute to this for this HacktoberFest :)
 
-
 - Hi, I'm Subham Nanda and this is my first time participation in HacktoberFest.
 
 - Hi, I'm Susil Kumar Behera, I am new to hacktoberfest feeling very happy and curious being a part of it!
 - Hi, I'm Suchismita Swain and this is my first time participation in HacktoberFest!
 - Hi, i'm Swastik Khuntia and this is my first time contributing to Hacktoberfest
-- HELLO, I'am Ajay Patra and this my first pull request 
-- Hi, I'm Himanshu Shekhar Sahoo and it's first time i am going to contribute the opensource in any domain! 
-
-
+- HELLO, I'am Ajay Patra and this my first pull request
+- Hi, I'm Himanshu Shekhar Sahoo and it's first time i am going to contribute the opensource in any domain!
