@@ -40,4 +40,4 @@ Hi my name is Suryansu and I am a tech-enthusiast.
 - HELLO, I'am Ajay Patra and this my first pull request 
 - Hi, I'm Himanshu Shekhar Sahoo and it's first time i am going to contribute the opensource in any domain! 
 -Hello, I'm Saheen Jasmine and its my first pull request
-Hello My name is Anupam Agrawal, and I am participating in Hacktoberfest for the first time.
+- Hello My name is Anupam Agrawal, and I am participating in Hacktoberfest for the first time.
